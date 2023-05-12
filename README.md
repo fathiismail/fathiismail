@@ -15,7 +15,11 @@ I have also studied the top 10 OWASP vulnerabilities
 
 SIEM tools : Elasticsearch , Kibana , Logstash , filebeats , Suricata ... 
 
-Scripting and Automation: shell scripting , Bash , PowerShell , Python , Ansible .
+CERTIFICATIONS : 
+  Practical Ethical Hacking       TCMSecurity
+  Jr Penetration Tester Path      TryHackMe
+  NSE 1 , NSE 2 ,NSE3             Fortinet
+
 Operation systems : Windows 10/11 , Linux (Ubuntu , Kali linux ).
 
 Programming languages : C , C++ , JAVA , Python , HTML/CSS , JavaScript , PHP , MySQL  , POO .
@@ -23,5 +27,5 @@ Programming languages : C , C++ , JAVA , Python , HTML/CSS , JavaScript , PHP , 
 Networking & system administration : 
 Server management involves installing and configuring operating systems such as Windows Server and Linux, managing users and groups, configuring server services such as DNS, DHCP, FTP, Active Directory, etc 
 
-Network security technologies : VPN , Firewalls , IDS/IPS.
+Network security technologies : VPN , Firewalls , IDS/IPS , Fortigate .
 
