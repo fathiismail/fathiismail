@@ -37,6 +37,3 @@ I'm a Network and cybersecurity engineer, specialized in penetration testing, Co
 - Photo Editing with Canva.
 - Reading books.
 
-## Contact
-- **Email:** ismail2001fathi@gmail.com
-- **Phone:** 0601938765
